@@ -1,6 +1,4 @@
-# Deveel Webhooks
-
-[![GitHub Actions](https://github.com/deveel/deveel.webhooks/actions/workflows/cd.yml/badge.svg)](https://github.com/deveel/deveel.webhooks/actions/workflows/cd.yml) [![Code Coverage](https://codecov.io/gh/deveel/deveel.webhooks/branch/main/graph/badge.svg?token=BKRX2N1IZ1)](https://codecov.io/gh/deveel/deveel.webhooks) [![Maintainability](https://api.codeclimate.com/v1/badges/d6af433587d35d4eaee3/maintainability)](https://codeclimate.com/github/deveel/deveel.webhooks/maintainability)
+# Webhooks
 
 This project provides a set of .NET tools for the management of subscriptions to events, basic transformations and notifications of such event occurrences (_[webhooks](docs/concept_webhook.md)_): in a global design scope, this model enables event-driven architectures, triggering system processes upon the occurrence of expected occurrences from other systems.
 
@@ -27,23 +25,3 @@ While working on a .NET Core 3.1/.NET 5 *aaS (_as-a-Service_) project that funct
 ## Usage Documentation
 
 We would like to help you getting started with this framework and to eventually extend it: please refer to the [Documentation](docs/README.md) section that we have produced for you.
-
-## Contribute
-
-Contributions to open-source projects, like **Deveel Webhooks**, is generally driven by interest in using the product and services, if they would respect some of the expectations we have to its functions.
-
-The best ways to contribute and improve the quality of this project is by trying it, filing issues, joining in design conversations, and make pull-requests.
-
-Please refer to the [Contributing Guidelines](CONTRIBUTING.md) to receive more details on how you can contribute to this project.
-
-We aim to address most of the questions you might have by providing [documentations](docs/README.md), answering [frequently asked questions](docs/FAQS.md) and following up on issues like bug reports and feature requests.
-
-### Contributors
-
-<a href="https://github.com/deveel/deveel.webhooks/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=deveel/deveel.webhooks"/>
-</a>
-
-## License Information
-
-This project is released under the [Apache 2 Open-Source Licensing agreement](https://www.apache.org/licenses/LICENSE-2.0).
